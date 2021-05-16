@@ -1,5 +1,5 @@
 # Android Interview Questions
-![Icon](icon.jpeg)
+![Icon](logo.jpeg)
 
 This repository holds technical interview questions for the Senior Android Developer position which has been was asked from me or I usually ask from other candidates. Feel free to contribute and improve it.
 
